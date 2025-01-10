@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi , I'm Aitor Guinea </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-◆ ABOUT ME
 ## › I'm a [42](https://www.42barcelona.com/es/) student 📄.
 
 ![aguinea's 42 stats](https://badge.mediaplus.ma/kettlebells/aguinea?1337Badge=off&UM6P=off)
