@@ -3,7 +3,7 @@
 ◆ ABOUT ME
 ## › I'm a [42](https://www.42barcelona.com/es/) student 📄.
 
-[![aguinea's 42 stats](https://badge.mediaplus.ma/kettlebells/aguinea?1337Badge=off&UM6P=off)
+![aguinea's 42 stats](https://badge.mediaplus.ma/kettlebells/aguinea?1337Badge=off&UM6P=off)
 
 
 ## › My 42 projects
