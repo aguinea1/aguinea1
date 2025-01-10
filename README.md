@@ -12,6 +12,31 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ## › Github Stats
-<br>
+
+<p align="center">
   <img src="https://github-readme-stats-eight-virid.vercel.app/api?username=aguinea1&count_private=true&theme=calm&show_icons=true" width="48.5%"/>
+  
+<p align="center">
   <img src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=aguinea1&layout=compact&count_private=false&theme=calm&show_icons=true" width="40.55%"/>
+
+<p align="center">
+  <a href="https://github.com/aguinea1">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
+
+<br>
+  
+-----
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]()
+ [<img src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white"/>](https://profile.intra.42.fr/users/aguinea)
+
+
+ 
+
+
+
+ 
