@@ -2,6 +2,10 @@
 
 ◆ ABOUT ME
 ## › I'm a [42](https://www.42barcelona.com/es/) student 📄.
+
+[![aguinea's 42 stats](https://badge.mediaplus.ma/black/aguinea)](https://github.com/oakoudad/badge42)
+
+
 ## › My 42 projects
 
 ## › Current Skills
