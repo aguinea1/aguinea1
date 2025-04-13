@@ -5,7 +5,7 @@
 ![aguinea's 42 stats](https://badge.mediaplus.ma/kettlebells/aguinea?1337Badge=off&UM6P=off)
 
 
-## › My 42 projects
+## › My projects
 
 ## › Current Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,css,github,git,visualstudio,c)](https://skillicons.dev)
