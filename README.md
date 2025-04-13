@@ -1,8 +1,5 @@
 <h1 align="center"><b>Hi, I'm Aitor Guinea</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">Student at <a href="https://www.42barcelona.com/es/">42 Barcelona</a> | Passionate about systems programming, low-level development and learning new technologies.</p>
-
----
 
 ## 🎓 About Me
 
@@ -27,7 +24,7 @@
 
 ### 📚 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,c)](https://skillicons.dev)
 
 ---
 
