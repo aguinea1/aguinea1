@@ -7,7 +7,7 @@
 - 🛠 Focused on C/C++, Bash
 - 💬 Always open to collaboration and learning from others
 
-![aguinea's 42 stats](https://badge.mediaplus.ma/kettlebells/aguinea?1337Badge=off&UM6P=off)
+[![aguinea's 42 stats](https://badge.mediaplus.ma/darkblue/aguinea)](https://github.com/oakoudad/badge42)
 
 ---
 
