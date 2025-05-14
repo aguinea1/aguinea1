@@ -15,6 +15,7 @@
 
 - 📚 [42 Projects](https://github.com/aguinea1/42-Projects/tree/main) — A collection of all the system-level projects completed as part of the 42 curriculum.
 - 📚 [C Projects](https://github.com/aguinea1/C-projects/tree/main) — All the projects I completed using C language.
+- 📚 [C++ Projects](https://github.com/aguinea1/CPP-Projects/tree/main) — All the projects I completed using C++ language.
 
 ---
 
