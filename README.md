@@ -15,7 +15,7 @@
 
 - 📚 [C Projects](https://github.com/aguinea1/C-projects/tree/main) — All the projects I completed using C language.
 - 📚 [C++ Projects](https://github.com/aguinea1/CPP-Projects/tree/main) — All the projects I completed using C++ language.
-- 📚 [JS Projects](https://github.com/aguinea1/CPP-Projects/tree/main) — All the projects I completed using JS language.
+- 📚 [JS Projects](https://github.com/aguinea1/JavaScript/tree/main) — All the projects I completed using JS language.
 
 ---
 
